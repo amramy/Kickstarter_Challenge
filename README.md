@@ -1,7 +1,7 @@
 # Kickstarter_Challenge
 
 ## Overview of Project
-### Discover insights about Theater/ Play campaign outcomes when comparing "successful", "failed", and "canceled" campaigns based on launch date and funding goals. 
+### Discover insights about Theater/ Play Kickstarter Campaign outcomes when comparing "successful", "failed", and "canceled" campaigns based on launch date and funding goals. 
 
 ## Analysis and Challenges
 
