@@ -6,12 +6,10 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-<img width="476" alt="Theater_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/111904266/194728252-857ac424-0c0c-4564-903f-c5b457e5793f.png">
-
+<img width="714" alt="Theater_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/111904266/194788885-5911c4c0-d658-4fa4-b8d2-babe047c112c.png">
 
 ### Analysis of Outcomes Based on Goals
 <img width="589" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/111904266/194728264-14302d53-991c-4914-b805-edbfcf066c53.png">
-
 
 ### Challenges and Difficulties Encountered
 The first challenge I encountered was noticing the Date Created and Date Ended were numbers I have never seen before. Learning about UNIX timestamps was a first for me along with the conversion. The second challenge is two columns (maybe since we did not use them) Staff_pick & Spotlight. Both these columns are TRUE/ FALSE statements which I am still unclear of their meaning and relation to the data.
@@ -34,7 +32,7 @@ A difficulty I ran into was during the analysis Outcomes based on Goals using =C
 
 ### Other tables or graphs we could create?
 * A pivot table with a line graph showing how many days the campaign was open would be useful. Was it too short or too long to be successful?
-* Was the number of backers a factor in being successful for not?
+* Was the number of backers a factor in being successful or not?
 * A table with a stacked bar graph showing individual country success with Theater/Play Kickstarter campaigns would be interesting. 
 
 
