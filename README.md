@@ -18,11 +18,11 @@ A difficulty I ran into was during the analysis Outcomes based on Goals using =C
 
 ## Results
 
-### Conclusion about Outcomes based on Launch Date
+### Conclusions about Outcomes based on Launch Date
 * The majority of Kickstarter Campaigns in the Theater category were started in May & June which also had the highest success rate.
 * Theater Kickstarter Campaigns started in December had a 50% chance of being successful.
 
-### Conclusions about Outcomes based on Goals
+### Conclusion about Outcomes based on Goals
 * The Kickstarter campaigns in the Theater/ Plays category had a 50% or more success rate when the fundraising goal was less than $20000. 
 
 ### Limitations of this Dataset
